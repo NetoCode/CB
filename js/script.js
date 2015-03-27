@@ -34,7 +34,7 @@ function iniciar () {
 
     	imagen1.src=fuentes[x]; //*Cambia la fuente de la imagen por el valor suministrado en bucle*// 
     	   
-    }
+    };
    
     imagen1.addEventListener('click',cambiar);
     
