@@ -1,0 +1,21 @@
+@charset"UTF-8";
+div{
+    border: #CC3366 medium solid;
+    padding: 5px;
+}
+#N1{
+    height: 600px;
+    width: 1000px;
+
+}
+#N2a{
+    -webkit-flex:1 3 5 em;
+}
+#N2b{
+    -webkit-flex:1 1 40em;
+}
+#N2c{
+    -webkit-flex:1 1 5em;
+    display: -webkit-flex;
+    -webkit-flex-direction:columnr;
+}
